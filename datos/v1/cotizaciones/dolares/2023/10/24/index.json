@@ -1,0 +1,44 @@
+[
+  {
+    "casa": "oficial",
+    "compra": 348.96,
+    "venta": 368.6,
+    "fecha": "2023-10-24",
+    "fechaActualizacion": "2023-10-24T00:00:00.000Z"
+  },
+  {
+    "casa": "blue",
+    "compra": 1050,
+    "venta": 1100,
+    "fecha": "2023-10-24",
+    "fechaActualizacion": "2023-10-24T00:00:00.000Z"
+  },
+  {
+    "casa": "bolsa",
+    "compra": 841.84,
+    "venta": 854.57,
+    "fecha": "2023-10-24",
+    "fechaActualizacion": "2023-10-24T00:00:00.000Z"
+  },
+  {
+    "casa": "contadoconliqui",
+    "compra": 893.11,
+    "venta": 884.84,
+    "fecha": "2023-10-24",
+    "fechaActualizacion": "2023-10-24T00:00:00.000Z"
+  },
+  {
+    "casa": "solidario",
+    "compra": null,
+    "venta": 639.63,
+    "fecha": "2023-10-24",
+    "fechaActualizacion": "2023-10-24T00:00:00.000Z"
+  },
+  {
+    "casa": "mayorista",
+    "compra": 348.95,
+    "venta": 349.95,
+    "fecha": "2023-10-24",
+    "fechaActualizacion": "2023-10-24T00:00:00.000Z"
+  }
+]

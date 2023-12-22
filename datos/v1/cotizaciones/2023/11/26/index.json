@@ -1,0 +1,37 @@
+[
+  {
+    "moneda": "USD",
+    "compra": 355,
+    "venta": 373,
+    "fecha": "2023-11-26",
+    "fechaActualizacion": "2023-11-26T00:00:00.000Z"
+  },
+  {
+    "moneda": "EUR",
+    "compra": 391.27,
+    "venta": 391.46,
+    "fecha": "2023-11-26",
+    "fechaActualizacion": "2023-11-26T00:00:00.000Z"
+  },
+  {
+    "moneda": "BRL",
+    "compra": 72.9,
+    "venta": 72.95,
+    "fecha": "2023-11-26",
+    "fechaActualizacion": "2023-11-26T00:00:00.000Z"
+  },
+  {
+    "moneda": "CLP",
+    "compra": 41,
+    "venta": 41.1,
+    "fecha": "2023-11-26",
+    "fechaActualizacion": "2023-11-26T00:00:00.000Z"
+  },
+  {
+    "moneda": "UYU",
+    "compra": 9.09,
+    "venta": 9.1,
+    "fecha": "2023-11-26",
+    "fechaActualizacion": "2023-11-26T00:00:00.000Z"
+  }
+]

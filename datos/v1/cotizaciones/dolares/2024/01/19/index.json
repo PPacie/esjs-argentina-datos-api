@@ -1,0 +1,51 @@
+[
+  {
+    "casa": "oficial",
+    "compra": 799.25,
+    "venta": 839.25,
+    "fecha": "2024-01-19",
+    "fechaActualizacion": "2024-01-19T13:55:00.000Z"
+  },
+  {
+    "casa": "blue",
+    "compra": 1220,
+    "venta": 1240,
+    "fecha": "2024-01-19",
+    "fechaActualizacion": "2024-01-19T13:55:00.000Z"
+  },
+  {
+    "casa": "bolsa",
+    "compra": 1229.9,
+    "venta": 1232.1,
+    "fecha": "2024-01-19",
+    "fechaActualizacion": "2024-01-19T13:55:00.000Z"
+  },
+  {
+    "casa": "contadoconliqui",
+    "compra": 1207.4,
+    "venta": 1254.3,
+    "fecha": "2024-01-19",
+    "fechaActualizacion": "2024-01-19T13:55:00.000Z"
+  },
+  {
+    "casa": "mayorista",
+    "compra": 797.65,
+    "venta": 837.57,
+    "fecha": "2024-01-19",
+    "fechaActualizacion": "2024-01-19T13:55:00.000Z"
+  },
+  {
+    "casa": "cripto",
+    "compra": 1250,
+    "venta": 1276,
+    "fecha": "2024-01-19",
+    "fechaActualizacion": "2024-01-19T13:55:00.000Z"
+  },
+  {
+    "casa": "tarjeta",
+    "compra": 1278.8,
+    "venta": 1342.8,
+    "fecha": "2024-01-19",
+    "fechaActualizacion": "2024-01-19T13:55:00.000Z"
+  }
+]

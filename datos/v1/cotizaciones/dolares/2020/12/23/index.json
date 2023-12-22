@@ -1,0 +1,16 @@
+[
+  {
+    "casa": "blue",
+    "compra": 153,
+    "venta": 159,
+    "fecha": "2020-12-23",
+    "fechaActualizacion": "2020-12-23T00:00:00.000Z"
+  },
+  {
+    "casa": "oficial",
+    "compra": 83,
+    "venta": 89,
+    "fecha": "2020-12-23",
+    "fechaActualizacion": "2020-12-23T00:00:00.000Z"
+  }
+]

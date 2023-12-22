@@ -1,0 +1,58 @@
+[
+  {
+    "casa": "oficial",
+    "compra": 361,
+    "venta": 379,
+    "fecha": "2023-12-06",
+    "fechaActualizacion": "2023-12-06T00:00:00.000Z"
+  },
+  {
+    "casa": "blue",
+    "compra": 935,
+    "venta": 955,
+    "fecha": "2023-12-06",
+    "fechaActualizacion": "2023-12-06T00:00:00.000Z"
+  },
+  {
+    "casa": "bolsa",
+    "compra": 938.02,
+    "venta": 946.25,
+    "fecha": "2023-12-06",
+    "fechaActualizacion": "2023-12-06T00:00:00.000Z"
+  },
+  {
+    "casa": "contadoconliqui",
+    "compra": 888.45,
+    "venta": 918.67,
+    "fecha": "2023-12-06",
+    "fechaActualizacion": "2023-12-06T00:00:00.000Z"
+  },
+  {
+    "casa": "solidario",
+    "compra": null,
+    "venta": 663.25,
+    "fecha": "2023-12-06",
+    "fechaActualizacion": "2023-12-06T00:00:00.000Z"
+  },
+  {
+    "casa": "mayorista",
+    "compra": 362.7,
+    "venta": 363.7,
+    "fecha": "2023-12-06",
+    "fechaActualizacion": "2023-12-06T00:00:00.000Z"
+  },
+  {
+    "casa": "cripto",
+    "compra": 897,
+    "venta": 916,
+    "fecha": "2023-12-06",
+    "fechaActualizacion": "2023-12-06T00:00:00.000Z"
+  },
+  {
+    "casa": "tarjeta",
+    "compra": 920.55,
+    "venta": 966.45,
+    "fecha": "2023-12-06",
+    "fechaActualizacion": "2023-12-06T00:00:00.000Z"
+  }
+]

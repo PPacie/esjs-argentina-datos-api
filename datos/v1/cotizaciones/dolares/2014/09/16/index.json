@@ -1,0 +1,16 @@
+[
+  {
+    "casa": "blue",
+    "compra": 14,
+    "venta": 15,
+    "fecha": "2014-09-16",
+    "fechaActualizacion": "2014-09-16T00:00:00.000Z"
+  },
+  {
+    "casa": "oficial",
+    "compra": 8,
+    "venta": 8,
+    "fecha": "2014-09-16",
+    "fechaActualizacion": "2014-09-16T00:00:00.000Z"
+  }
+]

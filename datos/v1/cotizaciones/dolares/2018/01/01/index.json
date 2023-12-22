@@ -1,0 +1,16 @@
+[
+  {
+    "casa": "blue",
+    "compra": 18,
+    "venta": 19,
+    "fecha": "2018-01-01",
+    "fechaActualizacion": "2018-01-01T00:00:00.000Z"
+  },
+  {
+    "casa": "oficial",
+    "compra": 19,
+    "venta": 19,
+    "fecha": "2018-01-01",
+    "fechaActualizacion": "2018-01-01T00:00:00.000Z"
+  }
+]

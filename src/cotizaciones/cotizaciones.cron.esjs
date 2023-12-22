@@ -1,0 +1,8 @@
+importar { extraerDolares } desde '@/cotizaciones/extraccion/extraerDolares.esjs'
+importar { guardarDolares } desde '@/cotizaciones/guardado/guardarDolares.esjs'
+
+exportar asincrono funcion cronCotizaciones() {
+  const dolares = esperar extraerDolares()
+
+  retornar guardarDolares(dolares, crear Fecha())
+}

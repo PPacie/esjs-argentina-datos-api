@@ -1,0 +1,16 @@
+[
+  {
+    "casa": "blue",
+    "compra": 60,
+    "venta": 63,
+    "fecha": "2019-08-31",
+    "fechaActualizacion": "2019-08-31T00:00:00.000Z"
+  },
+  {
+    "casa": "oficial",
+    "compra": 58,
+    "venta": 62,
+    "fecha": "2019-08-31",
+    "fechaActualizacion": "2019-08-31T00:00:00.000Z"
+  }
+]

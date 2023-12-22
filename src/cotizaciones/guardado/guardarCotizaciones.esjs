@@ -1,0 +1,15 @@
+importar { escribirRuta } desde '@/datos/rutas.esjs'
+importar { format } desde 'date-fns'
+
+exportar asincrono funcion guardarCotizaciones(cotizaciones, fecha) {
+  const fechaConBarra = format(fecha, 'yyyy/MM/dd')
+
+  escribirRuta(`/cotizaciones/${fechaConBarra}`, cotizaciones)
+
+  cotizaciones.mapear((cotizacion) => {
+    escribirRuta(
+      `/cotizaciones/${cotizacion.moneda.toLowerCase()}/${fechaConBarra}`,
+      cotizacion,
+    )
+  })
+}
